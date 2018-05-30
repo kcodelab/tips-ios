@@ -1,5 +1,8 @@
 # tips-iOS
 
+<img src="tips-ios.png" width="" height="200"/>
+
+
 ### 1.如何进行仓库内容预览与搜索？
 
 **预览：GitBook [tips-ios @ GitBook](https://42chapters.gitbook.io/tips-ios)**
